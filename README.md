@@ -11,7 +11,7 @@
 
 <img src="https://github.com/francehunter/Common-learning/blob/main/wireshark/raw_ws.png" width="200" height="100">
 
-Однако RFC 5234 определяет структуру пакета 13-й версии веб сокетов слудещующим образом
+Однако RFC 5234 определяет структуру пакета 13-й версии веб сокетов следующим образом
 
 <img src="https://github.com/francehunter/Common-learning/blob/main/wireshark/rfc.png" width="200" height="100">
  
